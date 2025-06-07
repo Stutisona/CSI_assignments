@@ -1,1 +1,1 @@
-# cs1_assign1
+# CSI assignments
